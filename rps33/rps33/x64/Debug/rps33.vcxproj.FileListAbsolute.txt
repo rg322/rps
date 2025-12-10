@@ -1,0 +1,6 @@
+C:\Users\mirko\source\repos\rps33\rps33\x64\Debug\rps33.vcxproj.AssemblyReference.cache
+C:\Users\mirko\source\repos\rps33\rps33\x64\Debug\rps33.MainForm.resources
+C:\Users\mirko\source\repos\rps33\rps33\x64\Debug\rps33.vcxproj.GenerateResource.cache
+C:\Users\User\Desktop\учеба\рпс\rps3\rps33\rps33\x64\Debug\rps33.vcxproj.AssemblyReference.cache
+C:\Users\User\Desktop\учеба\рпс\rps3\rps33\rps33\x64\Debug\rps33.MainForm.resources
+C:\Users\User\Desktop\учеба\рпс\rps3\rps33\rps33\x64\Debug\rps33.vcxproj.GenerateResource.cache
