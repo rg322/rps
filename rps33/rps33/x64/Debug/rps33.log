@@ -1,3 +1,5 @@
 ﻿  main.cpp
-  FileDatabase.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
-  rps33.vcxproj -> C:\Users\User\Desktop\учеба\рпс\rps3\rps33\x64\Debug\rps33.exe
+  Database.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+Database.obj : warning LNK4248: неразрешенная лексема TypeRef (0100001A) для "sqlite3_stmt"; образ нельзя запустить
+Database.obj : warning LNK4248: неразрешенная лексема TypeRef (0100001D) для "sqlite3"; образ нельзя запустить
+  rps33.vcxproj -> C:\Users\ashta\source\repos\rps33\x64\Debug\rps33.exe
