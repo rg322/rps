@@ -33,6 +33,7 @@ bool Database::open() {
     return true;
 }
 
+
 #pragma managed(pop)
 
 // Закрытие БД

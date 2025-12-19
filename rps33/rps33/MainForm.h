@@ -394,15 +394,18 @@ namespace rps33 {
 			// 
 			this->AutoScaleDimensions = System::Drawing::SizeF(9, 20);
 			this->AutoScaleMode = System::Windows::Forms::AutoScaleMode::Font;
-			this->ClientSize = System::Drawing::Size(1026, 863);
+			this->ClientSize = System::Drawing::Size(1026, 844);
 			this->Controls->Add(this->lblStatus);
 			this->Controls->Add(this->groupHistory);
 			this->Controls->Add(this->btnHelp);
 			this->Controls->Add(this->groupArray);
 			this->Controls->Add(this->groupAuth);
 			this->Margin = System::Windows::Forms::Padding(4, 5, 4, 5);
+			this->MaximumSize = System::Drawing::Size(1048, 900);
+			this->MinimumSize = System::Drawing::Size(1048, 900);
 			this->Name = L"MainForm";
 			this->Text = L"Сортировщик массивов с SQLite БД";
+			this->WindowState = System::Windows::Forms::FormWindowState::Maximized;
 			this->groupAuth->ResumeLayout(false);
 			this->groupAuth->PerformLayout();
 			this->groupArray->ResumeLayout(false);
